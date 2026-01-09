@@ -6,9 +6,12 @@ Ask ONE probing question about:
 {topic}
 
 The question should:
+- focuses on a single causal mechanism
 - require explanation, not definition
-- expose shallow understanding
+- exposes shallow or memorized understanding
 - be answerable in text
+
+The question must require the person to explain WHY something happens.
 
 Only output the question.
 """
